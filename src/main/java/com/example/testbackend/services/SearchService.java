@@ -91,7 +91,7 @@ public class SearchService {
 	 * getApiMockarooResponse Service
 
 	 *
-	 * @param param recibe el rut el rut encriptado
+	 * @param param recibe el rut encriptado
 	 *              lo utiliza para obtener la informacion del servicio mockaroo
 	 * @return apiMockarooResponse retorna la respuesta del servicio mockaroo
 	 */
