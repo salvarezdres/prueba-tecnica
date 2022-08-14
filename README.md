@@ -26,6 +26,15 @@ una vez cifrado asumirá el valor param para consumir la api
 mediremos el tiempo de ejecución y generaremos la respuesta en el siguiente formato
 </p>
 {
+    "responseCode": "200",
+    "description": "OK",
+    "elapsedTime": 1289,
+    "result": {
+        "registerCount": 3
+    }
+}
+<p>y en caso de error </p>
+{
     "responseCode": "204",
     "description": "NOK",
     "elapsedTime": 636,
